@@ -10,7 +10,7 @@ Exploración preliminar de datos de mortalidad para analizar la representación 
 - **data/**: datos utilizados en el análisis (o instrucciones para obtenerlos).
 - **scripts/**: código en R para limpieza, análisis y visualización.
 - **figures/**: gráficos generados a partir del análisis.
-- **docs/**: notas, borradores o materiales de apoyo (si aplica).
+- **docs/**: notas, borradores o materiales de apoyo.
 
 ## Qué se hizo
 
